@@ -1,0 +1,6 @@
+{
+  "name": "SDN Cinanggerang I - Portal & Google Apps Script Hub",
+  "description": "Portal web sekolah SDN Cinanggerang I dengan integrasi database Google Sheets melalui Google Apps Script, PPDB Online, Absensi, E-Learning, dan Panduan Deployment Lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
